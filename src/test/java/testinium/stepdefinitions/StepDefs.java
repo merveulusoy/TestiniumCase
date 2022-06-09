@@ -66,7 +66,7 @@ public class StepDefs {
     public void the_user_choose_a_random_product() {
         BrowserUtils.waitFor(2);
         gittiGidiyorPage.clickRandomProduct();
-        Log4j.info("Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir");
+        Log4j.info("A random product is selected from the displayed products according to the search result.");
         BrowserUtils.waitFor(3);
 
     }
@@ -75,7 +75,7 @@ public class StepDefs {
     public void the_user_type_chosen_product_s_information_and_price_on_txt_file() {
         BrowserUtils.waitFor(2);
         gittiGidiyorPage.writeProductInfoToTxtFile();
-        Log4j.info("Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır");
+        Log4j.info("The product information and amount information of the selected product are written to the txt file.");
 
     }
 
