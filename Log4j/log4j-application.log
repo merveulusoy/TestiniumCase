@@ -58,3 +58,5 @@
 2022-06-09 18:17:09 INFO  Log4j:20 - Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır
 2022-06-09 18:23:25 INFO  Log4j:20 - Sonuca göre sergilenen ürünlerden rastgele bir ürün seçilir
 2022-06-09 18:23:30 INFO  Log4j:20 - Seçilen ürünün ürün bilgisi ve tutar bilgisi txt dosyasına yazılır
+2022-06-09 19:49:06 INFO  Log4j:20 - A random product is selected from the displayed products according to the search result.
+2022-06-09 19:49:12 INFO  Log4j:20 - The product information and amount information of the selected product are written to the txt file.

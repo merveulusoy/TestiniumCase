@@ -1,7 +1,7 @@
 Feature: Gittigidiyor Web Page
 
 @testinium
-  Scenario: Open web page
+  Scenario: Gittigidiyor web page - Testinium
     Given the user enters the web page
     Then user type "bilgisayar" to search box
     Then user click to second page from search results
